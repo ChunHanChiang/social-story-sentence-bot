@@ -34,6 +34,6 @@
 
 ## 授權
 
-本專案採用自訂限制性授權，僅允許教育目的的非營利使用。可下載、安裝及使用，也可在保留授權與著作權聲明並附上原始 repository 連結的前提下，散布完整且未修改的副本。
+本作品採用「創用 CC 姓名標示－非商業性－禁止改作 4.0 國際」（CC BY-NC-ND 4.0）授權。歡迎於教育等非商業情境分享完整、未修改的版本；分享時請標示作者 Chun-Han Chiang，並附上原始 repository 連結。
 
-未經著作權人書面許可，不得修改、翻譯、改編、製作衍生作品或商業使用。本專案不是開源授權（open-source license）。完整條款請見 [LICENSE](LICENSE)。
+此授權禁止分享改作版本；如需修改後再分享，請先取得作者許可。完整條款請見 [LICENSE](LICENSE) 及 [Creative Commons 官方授權頁面](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
